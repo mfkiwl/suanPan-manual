@@ -1,0 +1,9 @@
+<map id="tensor::stress::double_contraction" name="tensor::stress::double_contraction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="283,72,503,115"/>
+<area shape="rect" id="Node000002" href="$d5/d60/class_armstrong_frederick.html#aeff41b136117c1f01d41ff427e102e65" title=" " alt="" coords="15,5,225,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,71,207,51,208,45,292,66"/>
+<area shape="rect" id="Node000003" href="$d5/da6/class_subloading_metal.html#af5c4ff1913db91f84deff1cd82a9f4eb" title=" " alt="" coords="5,72,235,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,96,235,96,235,91,269,91"/>
+<area shape="rect" id="Node000004" href="$d9/d6d/class_v_a_f_c_r_p.html#a3af6d79e775a611c8a9dc3cb2ad8084f" title=" " alt="" coords="19,139,221,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="292,121,208,141,207,136,291,115"/>
+</map>
